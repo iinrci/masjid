@@ -1,0 +1,7 @@
+{
+  "name": "Masjid Al-Ikhlas",
+  "description": "Website resmi Masjid Al-Ikhlas untuk informasi jadwal sholat, kegiatan, dan donasi.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
